@@ -2,8 +2,7 @@
   "name": "personalportfolio",
   "version": "0.1.0",
   "private": true,
-  
-
+  "homepage": "https://maxgrier.github.io/maxgrier-reactsite/",
   "dependencies": {
     "gh-pages": "^3.1.0",
     "jquery": "^3.2.1",
