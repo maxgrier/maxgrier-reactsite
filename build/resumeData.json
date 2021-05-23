@@ -9,10 +9,10 @@
     "email": "youremailhere@gmail.com",
     "phone": "253-255-3752",
     "address": {
-      "street": "(Your Street)",
-      "city": "(Your City)",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street": "13219 46th Ave SE",
+      "city": "Mill Creek",
+      "state": "WA",
+      "zip": "98012"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
