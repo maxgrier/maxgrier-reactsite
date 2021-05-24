@@ -2,11 +2,11 @@
   "main": {
     "name": "Max Grier",
     "occupation": "Financial Analyst",
-    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "description": "I am currently working for Boeing Commercial Aiplanes.  I enjoy using my Computer Science experience to automate and impprove processes.",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio": "I am a Pacific Northwest native originally from Gig Harbor, WA.  I enjoy deep diving into data and providing insights to drive improvements.  My passion is to create new tools and processes that simplify and automate tasks.  Outside of work, I enjoy traveling, yoga, cycling, and spending time at the beach.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
+    "email": "max.grier1@gmail.com",
     "phone": "253-255-3752",
     "address": {
       "street": "13219 46th Ave SE",
@@ -14,12 +14,12 @@
       "state": "WA",
       "zip": "98012"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "http://www.grierm.github.io",
+    "resumedownload": "http://www.grierm.github.io/resume.pdf",
     "social": [
       {
         "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
+        "url": "http://facebook.com/",
         "className": "fa fa-facebook"
       },
       {
@@ -29,12 +29,12 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "https://www.linkedin.com/in/maxgrier/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
+        "url": "http://instagram.com/",
         "className": "fa fa-instagram"
       },
       {
@@ -48,24 +48,33 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Oregon State University",
+        "degree": "Bachelor's in Computer Science",
+        "graduated": "Expected June 2022",
+        "description": ""
       },
       {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Montana State University",
+        "degree": "Bachelor's in Business Finance",
+        "graduated": "May 2015",
+        "description": ""
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "The Boeing Company",
+        "title": "Financial Analyst",
+        "years": "February 2019 - Present",
+        "description": "Developer on the ATC Speech Recognition project to create the metadata preprocessing pipeline through Google cloud and 
+        Docker containers which feeds the React front end in order to monitor server health.  
+        Supporting the Director of Propulsion as well as 787 and 777x commercial airplanes to manage headcount, budget forecasts, 
+        analyze and interpret variances, and report findings to Leadership.  
+        Coordinate with Project Managers, Engineers, and Senior Managers to ensure accurate resource and budget forecasts.  
+        Extract and compile weekly, monthly, and quarterly financial performance reports for Executives and Senior Managers.  
+        Responsible for maintaining $55 and $50 million in project funding for the Technology Integration and Advanced Materials
+        portfolios, respectively.  
+        Lead the development of standard reporting tools with COGNOS queries and compiled data with Power Query.  
+        Finished the 2020 fiscal year with a 0.25% budget variance across the Advanced Materials portfolio"
       },
       {
         "company": "Super Cool Studio",
