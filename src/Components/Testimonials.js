@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class Quotes extends Component {
+class Testimonials extends Component {
   render() {
 
     if(this.props.data){
@@ -35,4 +35,4 @@ class Quotes extends Component {
   }
 }
 
-export default Quotes;
+export default Testimonials;
