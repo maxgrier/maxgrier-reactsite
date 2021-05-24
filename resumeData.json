@@ -65,16 +65,7 @@
         "company": "The Boeing Company",
         "title": "Financial Analyst",
         "years": "February 2019 - Present",
-        "description": "Developer on the ATC Speech Recognition project to create the metadata preprocessing pipeline through Google cloud and 
-        Docker containers which feeds the React front end in order to monitor server health.  
-        Supporting the Director of Propulsion as well as 787 and 777x commercial airplanes to manage headcount, budget forecasts, 
-        analyze and interpret variances, and report findings to Leadership.  
-        Coordinate with Project Managers, Engineers, and Senior Managers to ensure accurate resource and budget forecasts.  
-        Extract and compile weekly, monthly, and quarterly financial performance reports for Executives and Senior Managers.  
-        Responsible for maintaining $55 and $50 million in project funding for the Technology Integration and Advanced Materials
-        portfolios, respectively.  
-        Lead the development of standard reporting tools with COGNOS queries and compiled data with Power Query.  
-        Finished the 2020 fiscal year with a 0.25% budget variance across the Advanced Materials portfolio"
+        "description": "Developer on the ATC Speech Recognition project to create the metadata preprocessing pipeline through Google cloud and Docker containers which feeds the React front end in order to monitor server health.  Supporting the Director of Propulsion as well as 787 and 777x commercial airplanes to manage headcount, budget forecasts, analyze and interpret variances, and report findings to Leadership.  Coordinate with Project Managers, Engineers, and Senior Managers to ensure accurate resource and budget forecasts.  Extract and compile weekly, monthly, and quarterly financial performance reports for Executives and Senior Managers.  Responsible for maintaining $55 and $50 million in project funding for the Technology Integration and Advanced Materials portfolios, respectively.  Lead the development of standard reporting tools with COGNOS queries and compiled data with Power Query.  Finished the 2020 fiscal year with a 0.25% budget variance across the Advanced Materials portfolio"
       },
       {
         "company": "Super Cool Studio",
