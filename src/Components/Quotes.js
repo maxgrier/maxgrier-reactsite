@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class Testimonials extends Component {
+class Quotes extends Component {
   render() {
 
     if(this.props.data){
