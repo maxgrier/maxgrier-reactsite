@@ -150,7 +150,7 @@
       {
         "title": "Flask Finance",
         "category": "A Flask based webapp utilizing the y_finance API",
-        "image": "flask_finance.png",
+        "image": "flask-finance.png",
         "url": "https://maxgrier-flaskfinance.zeet.app/#"
       }
     ]
