@@ -126,31 +126,31 @@
       {
         "title": "Hash Table Implementation",
         "category": "A python implementation of a hash table",
-        "image": "hashmap.jpg",
+        "image": "hashmap.png",
         "url": "https://github.com/maxgrier/HashMap"
       },
       {
         "title": "Smallsh",
         "category": "A bash shell implementation using C",
-        "image": "bash.jpg",
+        "image": "bash.png",
         "url": "https://github.com/maxgrier/smallsh"
       },
       {
         "title": "Castaway Bikeshop",
         "category": "A Flask based bikeshop website with a SQL database",
-        "image": "castaway.jpg",
+        "image": "castaway.png",
         "url": "http://www.timbakerdev.com/originalthaifood.github.io"
       },
       {
         "title": "Resume Website",
         "category": "My first HTML/CSS based website",
-        "image": "resume-website.jpg",
+        "image": "resume-website.png",
         "url": "https://grierm.github.io/"
       },
       {
         "title": "Flask Finance",
         "category": "A Flask based webapp utilizing the y_finance API",
-        "image": "flask_finance.jpg",
+        "image": "flask_finance.png",
         "url": "https://maxgrier-flaskfinance.zeet.app/#"
       }
     ]
