@@ -136,16 +136,16 @@
         "url": "http://www.timbakerdev.com"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
+        "title": "Castaway Bikeshop",
+        "category": "A Flask based bikeshop website with a SQL database",
+        "image": "castaway.jpg",
         "url": "http://www.timbakerdev.com/originalthaifood.github.io"
       },
       {
         "title": "Resume Website",
-        "category": "A React based resume website template",
+        "category": "My first HTML/CSS based website",
         "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
+        "url": "https://grierm.github.io/"
       },
       {
         "title": "Smirkspace",
