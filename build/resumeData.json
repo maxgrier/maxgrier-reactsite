@@ -5,7 +5,7 @@
     "description": "I am currently working for Boeing Commercial Aiplanes.  I enjoy using my Computer Science experience to automate and improve processes",
     "image": "profilepic.jpg",
     "bio": "I am a Pacific Northwest native originally from Gig Harbor, WA.  I enjoy deep diving into data and providing insights to drive improvements.  My passion is to create new tools and processes that simplify and automate tasks.  Outside of work, I enjoy traveling, yoga, cycling, and spending time at the beach.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage": "Please reach out to me or connect with me on Linkedin.",
     "email": "max.grier1@gmail.com",
     "phone": "253-255-3752",
     "address": {
@@ -45,7 +45,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "",
     "education": [
       {
         "school": "Oregon State University",
@@ -68,10 +68,10 @@
         "description": "Developer on the ATC Speech Recognition project to create the metadata preprocessing pipeline through Google cloud and Docker containers which feeds the React front end in order to monitor server health.  Supporting the Director of Propulsion as well as 787 and 777x commercial airplanes to manage headcount, budget forecasts, analyze and interpret variances, and report findings to Leadership.  Coordinate with Project Managers, Engineers, and Senior Managers to ensure accurate resource and budget forecasts.  Extract and compile weekly, monthly, and quarterly financial performance reports for Executives and Senior Managers.  Responsible for maintaining $55 and $50 million in project funding for the Technology Integration and Advanced Materials portfolios, respectively.  Lead the development of standard reporting tools with COGNOS queries and compiled data with Power Query.  Finished the 2020 fiscal year with a 0.25% budget variance across the Advanced Materials portfolio"
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Northwest Plan Services",
+        "title": "Retirement Plan Analyst",
+        "years": "May 2017 - February 2019",
+        "description": "Supported in managing $700 million in assets allocated across 22 plan assignments in collaboration with plan consultants and administrators within the retirement plan administration industry.  Retrieve daily price files from primary trust companies (Charles Schwab, T.D. Ameritrade, Matrix) to combine data and create compatible files to load into FIS Relius database; export and submit aggregate trades for all plans; troubleshoot potential trade discrepancies via pre-trade checks; review and resolve outstanding trade issues for all NWPS locations prior to nightly deadline.  Track cash flow through daily reconciliation of plan assets on Relius database against trust company level, including participantdirected transactions, revenue sharing, gains and losses, and forfeitures."
       }
     ],
     "skills": [
