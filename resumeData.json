@@ -142,12 +142,6 @@
         "url": "http://www.timbakerdev.com/originalthaifood.github.io"
       },
       {
-        "title": "Resume Website",
-        "category": "My first HTML/CSS based website",
-        "image": "resume-website.png",
-        "url": "https://grierm.github.io/"
-      },
-      {
         "title": "Flask Finance",
         "category": "A Flask based webapp utilizing the y_finance API",
         "image": "flask-finance.png",
