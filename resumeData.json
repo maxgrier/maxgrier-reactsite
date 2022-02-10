@@ -1,8 +1,8 @@
 {
   "main": {
     "name": "Max Grier",
-    "occupation": "Financial Analyst",
-    "description": "I am currently working for Boeing Commercial Aiplanes.  I enjoy using my Computer Science experience to automate and improve processes",
+    "occupation": "UI/UX Business Intelligence Analyst",
+    "description": "I am currently working for Boeing Commercial Aiplanes.  I enjoy using my Computer Science knowledge to create dynamic, interactive dashboards",
     "image": "profilepic.jpg",
     "bio": "I am a Pacific Northwest native originally from Gig Harbor, WA.  I enjoy deep diving into data and providing insights to drive improvements.  My passion is to create new tools and processes that simplify and automate tasks.  Outside of work, I enjoy traveling, yoga, cycling, and spending time at the beach.",
     "contactmessage": "Please reach out to me or connect with me on Linkedin.",
@@ -63,9 +63,15 @@
     "work": [
       {
         "company": "The Boeing Company",
+        "title": "UI/UX Business Intelligence Analyst",
+        "years": "June 2021 - Present",
+        "description": "Designing and developing React dashboards and data capture webpages for Finance teams across Boeing Commercial Airplanes.  Maintaining functionality and design of the C# webpage for the FinDABI (Finance Data Analytics & Business Intelligence) team.  Built a Python Web API which utilizes multiple SQL queries from Teradata to feed data to the React dashboards.  Developer on the ATC Speech Recognition project to create the metadata preprocessing pipeline through Google Cloud and Docker containers which feeds the React front end to monitor server health."
+      },
+      {
+        "company": "The Boeing Company",
         "title": "Financial Analyst",
-        "years": "February 2019 - Present",
-        "description": "Developer on the ATC Speech Recognition project to create the metadata preprocessing pipeline through Google cloud and Docker containers which feeds the React front end in order to monitor server health.  Supporting the Director of Propulsion as well as 787 and 777x commercial airplanes to manage headcount, budget forecasts, analyze and interpret variances, and report findings to Leadership.  Coordinate with Project Managers, Engineers, and Senior Managers to ensure accurate resource and budget forecasts.  Extract and compile weekly, monthly, and quarterly financial performance reports for Executives and Senior Managers.  Responsible for maintaining $55 and $50 million in project funding for the Technology Integration and Advanced Materials portfolios, respectively.  Lead the development of standard reporting tools with COGNOS queries and compiled data with Power Query.  Finished the 2020 fiscal year with a 0.25% budget variance across the Advanced Materials portfolio"
+        "years": "February 2019 - June 2021",
+        "description": "Supported the Director of Propulsion as well as 787 and 777x commercial airplanes to manage headcount, budget forecasts, analyze and interpret variances, and report findings to Leadership.  Coordinated with Project Managers, Engineers, and Senior Managers to ensure accurate resource and budget forecasts.  Extracted and compile weekly, monthly, and quarterly financial performance reports for Executives and Senior Managers.  Responsible for maintaining $55 and $50 million in project funding for the Technology Integration and Advanced Materials portfolios, respectively.  Lead the development of standard reporting tools with COGNOS queries and compiled data with Power Query.  Finished the 2020 fiscal year with a 0.25% budget variance across the Advanced Materials portfolio"
       },
       {
         "company": "Northwest Plan Services",
@@ -77,7 +83,11 @@
     "skills": [
       {
         "name": "Python",
-        "level": "80%"
+        "level": "75%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "70%"
       },
       {
         "name": "Excel",
@@ -97,7 +107,7 @@
       },
       {
         "name": "Flask",
-        "level": "50%"
+        "level": "55%"
       },
       {
         "name": "Git",
@@ -105,14 +115,10 @@
       },
       {
         "name": "C",
-        "level": "40%"
+        "level": "45%"
       },
       {
         "name": "Google Cloud",
-        "level": "35%"
-      },
-      {
-        "name": "ReactJs",
         "level": "35%"
       },
       {
