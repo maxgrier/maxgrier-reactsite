@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Max Grier",
-    "occupation": "UI/UX Business Intelligence Analyst",
+    "occupation": "Full Stack Engineer",
     "description": "I am currently working for Boeing Commercial Aiplanes.  I enjoy using my Computer Science knowledge to create dynamic, interactive dashboards",
     "image": "profilepic.jpg",
     "bio": "I am a Pacific Northwest native originally from Gig Harbor, WA.  I enjoy deep diving into data and providing insights to drive improvements.  My passion is to create new tools and processes that simplify and automate tasks.  Outside of work, I enjoy traveling, yoga, cycling, and spending time at the beach.",
@@ -63,13 +63,19 @@
     "work": [
       {
         "company": "The Boeing Company",
-        "title": "UI/UX Business Intelligence Analyst",
+        "title": "Full Stack Engineer III",
         "years": "June 2021 - Present",
         "description": "Designing and developing React dashboards and data capture webpages for Finance teams across Boeing Commercial Airplanes.  Maintaining functionality and design of the C# webpage for the FinDABI (Finance Data Analytics & Business Intelligence) team.  Built a Python Web API which utilizes multiple SQL queries from Teradata to feed data to the React dashboards.  Developer on the ATC Speech Recognition project to create the metadata preprocessing pipeline through Google Cloud and Docker containers which feeds the React front end to monitor server health."
       },
       {
         "company": "The Boeing Company",
-        "title": "Financial Analyst",
+        "title": "Software Developer",
+        "years": "January 2021 - June 2021",
+        "description": "Developed the preprocessing data pipeline to process Air Traffic Control (ATC) voice recordings and metadata which was used to train machine learning models for autonomous flight.  Created the ETL workflow in Python and Apache Beam to extract data from the airport servers through Google Cloud (GCP) and into our BigQuery database to support the ReactJS server health monitoring dashboard.  Collaborated with Senior Software Engineers in Boeing India to identify and resolve major development roadblocks"
+      },
+      {
+        "company": "The Boeing Company",
+        "title": "Financial Analyst II",
         "years": "February 2019 - June 2021",
         "description": "Supported the Director of Propulsion as well as 787 and 777x commercial airplanes to manage headcount, budget forecasts, analyze and interpret variances, and report findings to Leadership.  Coordinated with Project Managers, Engineers, and Senior Managers to ensure accurate resource and budget forecasts.  Extracted and compile weekly, monthly, and quarterly financial performance reports for Executives and Senior Managers.  Responsible for maintaining $55 and $50 million in project funding for the Technology Integration and Advanced Materials portfolios, respectively.  Lead the development of standard reporting tools with COGNOS queries and compiled data with Power Query.  Finished the 2020 fiscal year with a 0.25% budget variance across the Advanced Materials portfolio"
       },
