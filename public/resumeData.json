@@ -65,25 +65,25 @@
         "company": "The Boeing Company",
         "title": "Full Stack Engineer III",
         "years": "June 2021 - Present",
-        "description": "Designing and developing React dashboards and data capture webpages for Finance teams across Boeing Commercial Airplanes.  Maintaining functionality and design of the C# webpage for the FinDABI (Finance Data Analytics & Business Intelligence) team.  Built a Python Web API which utilizes multiple SQL queries from Teradata to feed data to the React dashboards.  Developer on the ATC Speech Recognition project to create the metadata preprocessing pipeline through Google Cloud and Docker containers which feeds the React front end to monitor server health."
+        "description": "• Design and develop ReactJS dashboards for Boeing Commercial Airplanes (BCA) Finance teams and leadership \n• Develop statistical and graphical dashboards to determine production efficiency of airplane programs with Plotly and ReactJS \n• Create ReactJS data capture webapps that collect user inputs and Excel uploads, which are loaded in the SQL Server database \n• Use ASP.NET to build the Finance Q&A page that stores entries in SQL Server and sends email notifications for new entries \n• Maintain and enhance the functionality and design of the Finance Data Analytics & Business Intelligence (FinDABI) team’s homepage in ASP.NET \n• Build Python Web APIs, utilizing various SQL queries to pull data from Teradata and feed the JSON data to React apps"
       },
       {
         "company": "The Boeing Company",
         "title": "Software Developer",
         "years": "January 2021 - June 2021",
-        "description": "Developed the preprocessing data pipeline to process Air Traffic Control (ATC) voice recordings and metadata which was used to train machine learning models for autonomous flight.  Created the ETL workflow in Python and Apache Beam to extract data from the airport servers through Google Cloud (GCP) and into our BigQuery database to support the ReactJS server health monitoring dashboard.  Collaborated with Senior Software Engineers in Boeing India to identify and resolve major development roadblocks"
+        "description": "• Developed the preprocessing data pipeline to process Air Traffic Control (ATC) voice recordings and metadata which was used to train machine learning models for autonomous flight \n• Created the ETL workflow in Python and Apache Beam to extract data from the airport servers through Google Cloud (GCP) and into our BigQuery database to support the ReactJS server health monitoring dashboard \n• Collaborated with Senior Software Engineers in Boeing India to identify and resolve major development roadblocks"
       },
       {
         "company": "The Boeing Company",
         "title": "Financial Analyst II",
         "years": "February 2019 - June 2021",
-        "description": "Supported the Director of Propulsion as well as 787 and 777x commercial airplanes to manage headcount, budget forecasts, analyze and interpret variances, and report findings to Leadership.  Coordinated with Project Managers, Engineers, and Senior Managers to ensure accurate resource and budget forecasts.  Extracted and compile weekly, monthly, and quarterly financial performance reports for Executives and Senior Managers.  Responsible for maintaining $55 and $50 million in project funding for the Technology Integration and Advanced Materials portfolios, respectively.  Lead the development of standard reporting tools with COGNOS queries and compiled data with Power Query.  Finished the 2020 fiscal year with a 0.25% budget variance across the Advanced Materials portfolio"
+        "description": "• Supported the Director of Propulsion as well as 787 and 777x commercial airplanes to manage headcount, budget forecasts, analyze and interpret variances, and report findings to Leadership – finished 2020 fiscal year with a 0.25% variance \n• Coordinated with Project Managers, Engineers, and Senior Managers to ensure accurate resource and budget forecasts \n• Extracted and compiled weekly, monthly, and quarterly financial performance reports for Executives and Senior Managers \n• Responsible for $55 and $50 million in funding for the Technology Integration and Advanced Materials portfolios, respectively \n• Lead the development of standard reporting tools with COGNOS queries and compiled data with Power Query"
       },
       {
         "company": "Northwest Plan Services",
         "title": "Retirement Plan Analyst",
         "years": "May 2017 - February 2019",
-        "description": "Supported in managing $700 million in assets allocated across 22 plan assignments in collaboration with plan consultants and administrators within the retirement plan administration industry.  Retrieve daily price files from primary trust companies (Charles Schwab, T.D. Ameritrade, Matrix) to combine data and create compatible files to load into FIS Relius database; export and submit aggregate trades for all plans; troubleshoot potential trade discrepancies via pre-trade checks; review and resolve outstanding trade issues for all NWPS locations prior to nightly deadline.  Track cash flow through daily reconciliation of plan assets on Relius database against trust company level, including participantdirected transactions, revenue sharing, gains and losses, and forfeitures."
+        "description": "• Supported in managing $700 million in assets allocated across 22 plan assignments in collaboration with plan consultants and administrators within the retirement plan administration industry \n• Retrieve daily price files from primary trust companies (Charles Schwab, T.D. Ameritrade, Matrix) to combine data and create compatible files to load into FIS Relius database; export and submit aggregate trades for all plans; troubleshoot potential trade discrepancies via pre-trade checks; review and resolve outstanding trade issues for all NWPS locations prior to nightly deadline \n• Track cash flow through daily reconciliation of plan assets on Relius database against trust company level, including participant-directed transactions, revenue sharing, gains and losses, and forfeitures"
       }
     ],
     "skills": [
@@ -93,11 +93,11 @@
       },
       {
         "name": "ReactJs",
-        "level": "70%"
+        "level": "75%"
       },
       {
         "name": "Excel",
-        "level": "80%"
+        "level": "75%"
       },
       {
         "name": "SQL",
@@ -105,7 +105,7 @@
       },
       {
         "name": "HTML5",
-        "level": "60%"
+        "level": "65%"
       },
       {
         "name": "CSS",

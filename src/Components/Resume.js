@@ -11,9 +11,12 @@ class Resume extends Component {
         <p>{education.description}</p></div>
       })
       var work = this.props.data.work.map(function(work){
+        let t = work.description.split['\n']
+        console.log('t: ', work.description)
+
         return <div key={work.company}><h3>{work.company}</h3>
             <p className="info">{work.title}<span>&bull;</span> <em className="date">{work.years}</em></p>
-            <p>{work.description}</p>
+            {work.description.split(/\n/).map(line => <div key={line}>{line}</div>)}
         </div>
       })
       var skills = this.props.data.skills.map(function(skills){
