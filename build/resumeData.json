@@ -14,7 +14,9 @@
       "state": "WA",
       "zip": "98012"
     },
-    "website": "http://grierm.github.io",
+    "websiteOld": "http://grierm.github.io",
+    "resumedownloadOld": "http://grierm.github.io/resume.pdf",
+    "website": "http://localhost:3000/",
     "resumedownload": "http://grierm.github.io/resume.pdf",
     "social": [
       {
