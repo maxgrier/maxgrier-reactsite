@@ -1,0 +1,1 @@
+run git remote set-url origin https://maxgrier:TOKEN_HERE@github.com/maxgrier/maxgrier-reactsite.git
